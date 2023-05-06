@@ -1,7 +1,7 @@
 ## IMDB-Postgresql-database
 parsing csv files collected from imdb database and storing them in a postgresql database.
 ## ERD
-![erd](https://user-images.githubusercontent.com/108439954/236516941-1f2551c6-6fe1-4d8d-9272-38a079592b9c.png)
+![ERD pgerd](https://user-images.githubusercontent.com/108439954/236612314-f40519ac-a93d-4830-84b2-a1ac6b7e79de.png)
 ## Data description 
 - There are 8 tables in the imdb database:
 
